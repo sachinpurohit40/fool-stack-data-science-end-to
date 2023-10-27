@@ -13,3 +13,4 @@ git commit -m "this is my first commit"
 
 gitpull
 
+bash your_file_name.sh
